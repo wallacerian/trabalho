@@ -1,0 +1,6 @@
+body {
+	backgroud-image: url(../img/tt.jpg);
+	backgroud-repeat: nor-repeat;
+	backgroud-size: cover;
+	backgroud-position: center center;
+}
