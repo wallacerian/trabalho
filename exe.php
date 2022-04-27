@@ -214,7 +214,6 @@
              do {
                  $swapped = false;
                  for ($i = 0; $i < $n - 1; $i++) {
-                     // swap when out of order
                      if ($vet[$i] > $vet[$i + 1]) {
                          $temp = $vet[$i];
                          $vet[$i] = $vet[$i + 1];
